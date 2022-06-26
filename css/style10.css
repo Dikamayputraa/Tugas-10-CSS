@@ -1,0 +1,29 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.box{
+	background-image: linear-gradient(to right, red, white);
+	width: 100%;
+	height: 625px;
+}
+
+.satu{
+
+	background: -webkit-radial-gradient(bottom, #FFFFFF, blue);
+	background: -moz-radial-gradient(bottom, #FFFFFF, blue);
+	background: radial-gradient(to top, #FFFFFF, blue);
+	margin-left: 600px;
+	width: 600px;
+	height: 400px;
+
+}
+
+.dua{
+
+	/*background-image: linear-gradient(to right, white, blue);*/
+	background-image: linear-gradient(to right, white, blue, white);
+	width: 600px;
+	height: 100px;
+	margin-left: 600px;
+}
